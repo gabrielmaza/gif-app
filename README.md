@@ -2,7 +2,7 @@
 
 # Author: Gabriel Maza
 
-# Gif's explorer from giphy.com API REST
+# Gif's explorer from giphy.com API REST / React / Vite
 
 #To run:
 npm run dev
